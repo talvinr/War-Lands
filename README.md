@@ -19,14 +19,14 @@
   <p align="center">
     Website for an online turn based strategy game
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/talvinr/War-Lands/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://waroflands.000webhostapp.com/">View web-page</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/talvinr/War-Lands/README.md/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/talvinr/War-Lands/README.md/issues">Request Feature</a>
   </p>
 </div>
 
