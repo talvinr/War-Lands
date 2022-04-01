@@ -24,9 +24,9 @@
     <br />
     <a href="https://waroflands.000webhostapp.com/">View web-page</a>
     ·
-    <a href="https://github.com/talvinr/War-Lands/README.md/issues">Report Bug</a>
+    <a href="https://github.com/talvinr/War-Lands/issues">Report Bug</a>
     ·
-    <a href="https://github.com/talvinr/War-Lands/README.md/issues">Request Feature</a>
+    <a href="https://github.com/talvinr/War-Lands/issues">Request Feature</a>
   </p>
 </div>
 
